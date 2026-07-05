@@ -1,3 +1,39 @@
+✨ Thank You for Using My Mod!
+
+Thank you for downloading and using my mod.
+I hope you enjoy it! ❤️
+
+📅 Created: July 5, 2026
+👨‍💻 Author: Ninezxq
+
+🌐 Socials
+
+🎵 TikTok: @ninezm
+▶️ YouTube: —
+💻 GitHub: zxbeyblade-a11y
+
+---
+
+📜 Changelog
+
+🚀 Version 1.0.1
+
+📅 July 5, 2026 • 21:07
+
+✨ Added
+
+- 🪓 New Axe textures.
+- ⛏️ New Pickaxe textures.
+- 🧰 Improved tool textures.
+- 🎨 Minor visual improvements.
+
+---
+
+💛 Thanks for your support!
+More updates are coming soon.
+
+
+
 🤝 Contributing
 
 Contributions are welcome!
