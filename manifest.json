@@ -1,0 +1,10 @@
+{
+  "Name": "NongNine Textures",
+  "Author": "Ninezxq",
+  "Version": "1.0.0",
+  "Description": "A clean and minimal texture pack that retextures tools and selected items for Stardew Valley.",
+  "UniqueID": "Ninezxq.NongNineTextures",
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}
