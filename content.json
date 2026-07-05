@@ -1,0 +1,15 @@
+{
+  "Format": "2.0.0",
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "TileSheets/tools",
+      "FromFile": "assets/tools.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "TileSheets/weapons",
+      "FromFile": "assets/weapons.png"
+    }
+  ]
+}
